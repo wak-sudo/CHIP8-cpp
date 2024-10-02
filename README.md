@@ -2,7 +2,7 @@
 
 ![Breakout by David Winter](screenshots/Breakout_DavidWinter.png)
 
-CHIP8 interpreter written in C++.
+CHIP8 interpreter in C++. Initialy written circa 2022.
 
 ## Usage
 
